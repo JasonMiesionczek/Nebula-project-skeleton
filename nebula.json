@@ -1,7 +1,8 @@
 {
     "name": "%%NAME%%",
-    "authors": [%%AUTHORS%%],
-    "version" "%%VERSION%%",
+    "author": "%%AUTHOR%%",
+    "company": "%%COMPANY%%",
+    "version": "%%VERSION%%",
     "manifest": "",
     "templates": []
 }
