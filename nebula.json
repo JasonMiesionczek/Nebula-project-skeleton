@@ -3,6 +3,6 @@
     "author": "%%AUTHOR%%",
     "company": "%%COMPANY%%",
     "version": "%%VERSION%%",
-    "manifest": "",
-    "templates": []
+    "description": "",
+    "templates": {}
 }
